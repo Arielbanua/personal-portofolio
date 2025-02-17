@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Junior Backend Developer",
+    "organisation": "PT. Waktu Cipta Dimensi",
+    "startDate": "Dec 2024",
+    "endDate": "Current",
+    "experiences": ["Designing and creating ERP system", "Using Django and PostgreSQL"],
+    "imageSrc": "experience/noImage.png"
+  },
+  {
+    "role": "Software Engineer Intern - TechOps & QA",
+    "organisation": "Dynasty Gaming & Media",
+    "startDate": "Aug 2023",
+    "endDate": "Nov 2023",
+    "experiences": ["Implemented various testing and debug methods", "MongoDB, Kibana, Lambdatest, etc for test management, debugging, and data visualization"],
+    "imageSrc": "experience/dynastygm.png"
+  }
+]

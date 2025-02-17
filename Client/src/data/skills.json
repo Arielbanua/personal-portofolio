@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "experience/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "experience/django.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "experience/java.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "experience/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "experience/node.png"
+  }
+]
