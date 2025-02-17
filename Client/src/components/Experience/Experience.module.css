@@ -4,7 +4,10 @@
   position: relative;
   background-color: rgba(12, 12, 12, 0.6);
   border-radius: 15px;
-  padding: 61px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   margin-top: 129px;
   z-index: 1;
 }
@@ -114,7 +117,7 @@
     width: 100%;
     flex-direction: row;
     justify-content: center;
-    padding-top: 10%;
+    padding-top: 10;
   }
 
   .history {

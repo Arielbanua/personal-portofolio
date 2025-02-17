@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Intellexam - Online Exam Platform",
+    "imageSrc": "projects/project.jpg",
+    "description": "Project to conduct online tests more securely and easier using pre-trained text-similarity AI model.",
+    "skills": ["Flask", "HuggingFace"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Arielbanua/Intellexam"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Blockchain Healthcare Management System",
+    "imageSrc": "projects/project.jpg",
+    "description": "Project made for secure and efficient patient record management utilizing blockchain.",
+    "skills": ["Web3", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Arielbanua/AENE-test"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Web-based Veterinary Clinic System",
+    "imageSrc": "projects/project.jpg",
+    "description": "This is a veterinary clinic system in Java to manage veterinary care and appointments.",
+    "skills": ["Java"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Arielbanua/Veterinary-Clinic-System"
   }
 ]
