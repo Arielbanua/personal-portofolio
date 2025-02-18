@@ -2,7 +2,10 @@ import React from "react";
 
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
-import gmail from "../../assets/contact/emailicon.png";
+import gmail from "../../assets/contact/emailIcon.png";
+import linkedin from "../../assets/contact/githubIcon.png";
+import github from "../../assets/contact/linkedinIcon.png";
+
 
 
 export const Contact = () => {
@@ -19,13 +22,13 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img
-            src="/src/assets/contact/linkedinIcon.png"
+            src={linkedin}
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/ariel-banua/">linkedin.com/ariel-banua</a>
         </li>
         <li className={styles.link}>
-          <img src="/src/assets/contact/githubIcon.png" alt="Github icon" />
+          <img src={github} />
           <a href="https://github.com/Arielbanua">github.com/Arielbanua</a>
         </li>
       </ul>
